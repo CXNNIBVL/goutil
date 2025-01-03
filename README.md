@@ -22,3 +22,4 @@ Some of my own stuff i like to use when the Go guys don't want to provide basic 
 
 ## Other
 * [Timediff](https://github.com/mergestat/timediff) for human readable time differences
+* [Gum](https://github.com/charmbracelet/gum) for nice inputs in shell scripts
